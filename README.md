@@ -1,3 +1,10 @@
+
+# Software Engineering Methods
+
+- Master Build Status [![Build Status](https://travis-ci.org/aaronmorrison1/sem.svg?branch=master)](https://travis-ci.org/aaronmorrison1/sem)
+
+<p>Bullet list:</p>
+
 <h1>Heading</h1>
 
 <h2>Sub-heading</h2>
@@ -11,14 +18,12 @@ produces a line break.</p>
 <p>Text attributes <em>italic</em>, 
 <strong>bold</strong>, <code>monospace</code>.</p>
 
-<p>Horizontal rule:</p>
-
-<hr />
-
 <p>Strikethrough:</p>
 <strike>strikethrough</strike>
 
-<p>Bullet list:</p>
+<p>Horizontal rule:</p>
+
+<hr />
 
 <ul>
 <li>apples</li>
