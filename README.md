@@ -2,8 +2,8 @@
 # Software Engineering Methods
 
 - Master Build Status [![Build Status](https://travis-ci.org/aaronmorrison1/sem.svg?branch=master)](https://travis-ci.org/aaronmorrison1/sem)
-
-<p>Bullet list:</p>
+- License [![LICENSE](https://img.shields.io/github/license/aaronmorrison1/sem.svg?style=flat-square)](https://github.com/aaronmorrison1/sem/blob/master/LICENSE)
+- Release [![Releases](https://img.shields.io/github/release/aaronmorrison1/sem/all.svg?style=flat-square)](https://github.com/aaronmorrison1/sem/releases)
 
 <h1>Heading</h1>
 
@@ -24,6 +24,8 @@ produces a line break.</p>
 <p>Horizontal rule:</p>
 
 <hr />
+
+<p>Bullet list:</p>
 
 <ul>
 <li>apples</li>
